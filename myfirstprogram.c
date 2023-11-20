@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main()
+
 {
-    printf("hello world!\n");
-    printf("i'm writing in C!!!");
+    printf("Hello World!\nI am learning C.\nAnd it is awesome!");
     return 0;
 }
